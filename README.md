@@ -1,4 +1,13 @@
-<h1 align="center"><strong>Neptune Firefox</strong></h1>
+
+
+<h1 align="center"><strong>Neptune Firefox/z</strong></h1>
+
+**Z edition changes from main:**
+* 20141017:
+  * Removed almost all of the top and buttom padding from toolbar.
+  * The window control buttons are now programmatically centered.
+<img width="1067" alt="image" src="https://github.com/user-attachments/assets/41829247-2212-4413-93a2-2afb12b9ac15">
+
 
 **Instructions:** 
 - This theme works for **Firefox v128+** and is compatible with both Windows and macOS.
