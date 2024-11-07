@@ -1332,7 +1332,7 @@ treechildren::-moz-tree-cell-text(selected) {
 	.titlebar-buttonbox-container {
 		position: absolute;
 		left: 7px;
-		top: 18px;
+		top: 10px;
 	}
 }
 
